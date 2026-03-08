@@ -1,1 +1,1 @@
-
+> **Note on Data Privacy:** Documents in this repository will be copies of the original asset records. In compliance with data privacy regulations and confidentiality agreements, sensitive information has been **redacted** where necessary to protect stakeholder privacy without compromising legal verifiability.
